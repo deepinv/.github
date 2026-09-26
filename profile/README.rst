@@ -35,3 +35,11 @@ Install the latest stable release of ``deepinv``:
    pip install deepinv
 
 For more information, check out the DeepInverse `GitHub repo <https://github.com/deepinv/deepinv>`_ and our `documentation <https://deepinv.github.io>`_.
+
+News
+----
+
+**DeepInverse @ MICCAI tutorial**:
+
+- For the tutorial, we will use this `quickstart notebook on Colab <https://colab.research.google.com/drive/1Cewh2PmSNCf8JPARgzJEz2eM-mUNMQSe?usp=sharing>`_.
+- Please fill in this `very quick form <https://docs.google.com/forms/d/e/1FAIpQLSefFKdr2BPHEnk2scwiI4SINyltY8jyY_LMPcOd3_G4fL_XPg/viewform>`_ to keep in touch and help us improve DeepInverse!
